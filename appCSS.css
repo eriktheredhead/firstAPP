@@ -1,0 +1,18 @@
+/* 
+5. Once your app is working change the text colors to be McDuck's colors
+*/
+
+body {
+    text-align: center;
+    background: white;
+    background-image: url("https://i.imgur.com/LmwM49r.jpg");
+}
+
+h1, h2, h3, p {
+    font-family: Monospace;
+    color: green;
+}
+
+p {
+    font-size: 1em;
+}
